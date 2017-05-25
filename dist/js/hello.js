@@ -1,0 +1,1 @@
+"use strict";function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}var _world=require("./world"),_world2=_interopRequireDefault(_world);(new _world2.default).a();
