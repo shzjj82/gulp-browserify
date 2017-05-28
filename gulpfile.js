@@ -37,7 +37,7 @@ gulp.task('watch', function() {
 // browserify
 gulp.task("browserify", function() {
 	var b = browserify({
-		entries: "dist/js/hello.js"
+		entries: "dist/js/index.js"
 	});
 
 	return b.bundle()
