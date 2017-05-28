@@ -1,0 +1,1 @@
+"use strict";function _interopRequireDefault(e){return e&&e.__esModule?e:{default:e}}var _calculate=require("./calculate"),_calculate2=_interopRequireDefault(_calculate),_ui=require("./ui"),_ui2=_interopRequireDefault(_ui),Ui=new _ui2.default;Ui.init("Added_Tax");
